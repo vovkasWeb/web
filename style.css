@@ -178,8 +178,7 @@ body {
 }
 
 .hero {
-   background: url('IMAGE.png') no-repeat center top / cover;
-
+   background: url('IMAGE.png');
    height: 100%;
    background-position: center;
    background-repeat: no-repeat;
